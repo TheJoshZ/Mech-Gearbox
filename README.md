@@ -1,6 +1,6 @@
 # ENGR380 Gearbox Design Project
 
-Single-stage speed reduction gearbox designed for vessel propulsion, developed as part of ENGR380 Design of Machine Elements at UBC Okanagan.
+Single-stage speed reduction gearbox designed for vessel propulsion, developed as part of Design of Machine Elements at UBC.
 
 ## ⚙️ Project Overview
 
@@ -50,6 +50,11 @@ Our project involves the design of a one-stage gearbox that reduces input speed 
 
 - FEA (Solidworks) to validate component stresses and housing design  
 - Simulation insights informed design reinforcements and mass optimization
+  
+<p align="center">
+  <img src="FEA1.png" alt="FEA Analysis 1" width="45%" style="margin-right:10px;"/>
+  <img src="FEA2.png" alt="FEA Analysis 2" width="45%"/>
+</p>
 
 ## 🖥️ Resources
 
@@ -64,7 +69,4 @@ Our project involves the design of a one-stage gearbox that reduces input speed 
 - Zachrey Zhu  
 - Joshua Zhu  
 
-## 📄 License
-
-Academic project — for educational purposes only.
 
