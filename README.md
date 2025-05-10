@@ -50,11 +50,14 @@ Our project involves the design of a one-stage gearbox that reduces input speed 
 
 - FEA (Solidworks) to validate component stresses and housing design  
 - Simulation insights informed design reinforcements and mass optimization
-  
+
 <p align="center">
-  <img src="Images/FEA1.png" alt="FEA Analysis 1" width="45%" style="margin-right:10px;"/>
-  <img src="Images/FEA2.png" alt="FEA Analysis 2" width="45%"/>
+  <img src="Images/FEA1.png" alt="FEA Analysis 1" width="40%" style="margin-right:10px;"/>
+  <img src="Images/FEA2.png" alt="FEA Analysis 2" width="40%"/>
 </p>
+
+<p align="center"><em>Image 1 and 2. FEA analysis on shaft and gear at max load</em></p>
+
 
 ## 🖥️ Resources
 
