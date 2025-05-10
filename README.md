@@ -52,8 +52,8 @@ Our project involves the design of a one-stage gearbox that reduces input speed 
 - Simulation insights informed design reinforcements and mass optimization
   
 <p align="center">
-  <img src="FEA1.png" alt="FEA Analysis 1" width="45%" style="margin-right:10px;"/>
-  <img src="FEA2.png" alt="FEA Analysis 2" width="45%"/>
+  <img src="Images/FEA1.png" alt="FEA Analysis 1" width="45%" style="margin-right:10px;"/>
+  <img src="Images/FEA2.png" alt="FEA Analysis 2" width="45%"/>
 </p>
 
 ## 🖥️ Resources
